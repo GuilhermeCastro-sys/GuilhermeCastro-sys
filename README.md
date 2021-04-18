@@ -4,7 +4,7 @@ My name is Paulo Guilherme
 I'm student of Systems Analytics 💻
 From Brazil
 
-#### O conhecimento é a maior arma da humanidade, basta ela saber usa-la...
+#### O conhecimento é a maior arma da humanidade, basta ela saber usa-lo...
 
 - 🌎 From PE, linving in Paulista
 - I learn and create codes
