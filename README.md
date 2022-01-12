@@ -1,11 +1,10 @@
-# Hey 🖐
+# Olá Mundo🖐
 
-My name is Paulo Guilherme
-I'm student of Systems Analytics 💻
-From Brazil
+Sou Gui, sou estudante de Análise de Sistemas
 
 #### O conhecimento é a maior arma da humanidade, basta ela saber usa-lo...
 
-- 🌎 From PE, linving in Paulista
-- I learn and create codes
-- Currently developing projects in Java, Python and C++
+- 🌎 Sou de Pernambuco, sou Leão do Norte
+- Programador que programa programas
+- Front (React; Angular; HTML; CSS; JS)
+- Back (Spring Boot Java)
