@@ -6,5 +6,5 @@ Sou Gui, sou estudante de Análise de Sistemas
 
 - 🌎 Sou de Pernambuco, sou Leão do Norte
 - Programador que programa programas
-- Front (React; Angular; HTML; CSS; JS)
-- Back (Spring Boot Java)
+- Front-End (React; Angular; HTML; CSS; JS) e um pouco de Flutter
+- Back-End (Spring Boot)
